@@ -1,0 +1,5 @@
+pinecone-client
+flask
+numpy
+gunicorn
+Flask-Cors
